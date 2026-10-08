@@ -1,0 +1,6 @@
+{
+  "name": "ManufacERP - Gestão & PCP de Manufatura",
+  "description": "Sistema integrado de Planejamento e Controle da Produção (PCP) e ERP para pequenas indústrias de manufatura com gestão de fichas técnicas, estoques, capacidade produtiva e ordens de produção.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
